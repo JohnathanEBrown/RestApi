@@ -1,2 +1,2 @@
-# RestApi
-A simple RestApi for educational purposes. 
+# RestApi A simple RestApi for educational purposes. 
+Overall, writing this code can provide new individuals in cybersecurity with a solid foundation in secure coding practices, web application security, threat modeling, security best practices, error handling, logging, and cultivating a security mindset. It serves as an introduction to important concepts and sets the stage for further learning and exploration in the field of cybersecurity.
